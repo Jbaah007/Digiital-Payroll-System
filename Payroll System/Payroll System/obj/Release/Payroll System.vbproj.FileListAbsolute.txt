@@ -1,0 +1,22 @@
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\bin\Release\Payroll System.exe.config
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\bin\Release\Payroll System.exe
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\bin\Release\Payroll System.pdb
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\bin\Release\Payroll System.xml
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\bin\Release\MySql.Data.dll
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.vbproj.AssemblyReference.cache
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.vbproj.ResolveComReference.cache
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll_System.Form1.resources
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll_System.Form2.resources
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll_System.Form3.resources
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll_System.Form4.resources
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll_System.Form6.resources
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll_System.Form7.resources
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll_System.Resources.resources
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll_System.splashscreen_form.resources
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.vbproj.GenerateResource.cache
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.vbproj.CoreCompileInputs.cache
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.vbproj.CopyComplete
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.exe
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.xml
+C:\Users\NANA\Desktop\DIGITAL PAYROLL SOFTWARE\Payroll System\Payroll System\obj\Release\Payroll System.pdb

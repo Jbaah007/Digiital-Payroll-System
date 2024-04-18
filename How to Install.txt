@@ -1,0 +1,9 @@
+DOWNLOAD AND INSTALL XAMPP SERVER ON YOUR PC
+
+RUN THE LOCAL SERVER BY STARTING Apache and MySql
+
+SEARCH "localhost" WITH YOUR BROWSER AND CREATE A DATABASE "database"
+
+NB: database should be named exactly the same as the database file
+
+Import the database file into mysql server.
